@@ -75,7 +75,7 @@
 ---
 
 About Page 
-[About Page](About.md "About Page"
+[About Page](About.md "About Page")
 
 ---
 
