@@ -75,3 +75,9 @@
 ---
 
 About Page 
+[About Page](About.md "About Page"
+
+---
+
+Footer Menu
+- Footer Menu will have information about NJIT and the contact info to my email as well
